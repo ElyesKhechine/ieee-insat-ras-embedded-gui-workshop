@@ -71,8 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# IEEE INSAT RAS Chapter - Embedded GUI Workshop
-A repository containing source code files I used for an Embedded GUI Workshop I participated in organized by IEEE INSAT Student Branch RAS Chapter.
->>>>>>> b8bcf68e181a690f753a93bba63705a43a22e4cf
 
